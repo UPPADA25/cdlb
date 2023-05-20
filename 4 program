@@ -42,3 +42,4 @@ printf("\n %s is accepted under rule 'abb'",s); else
 printf("\n %s is not accepted",s);
 return 0;
 }
+
